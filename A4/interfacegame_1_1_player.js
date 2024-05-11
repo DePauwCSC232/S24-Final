@@ -1,0 +1,26 @@
+var interfacegame_1_1_player =
+[
+    [ "draw", "interfacegame_1_1_player.html#ad219d09c27c1d50df3cf179797293cfa", null ],
+    [ "drawBall", "interfacegame_1_1_player.html#ad451fdde2b820d7a1c488b263b362a1a", null ],
+    [ "drawTurn", "interfacegame_1_1_player.html#a40c92c01fe4f313f6825a7297c214944", null ],
+    [ "drawType", "interfacegame_1_1_player.html#a699d8df4e7929abc94c9be107ba7d729", null ],
+    [ "getBall", "interfacegame_1_1_player.html#a2cacce5162ac07fd8a0ac684b8c4a814", null ],
+    [ "getBlockA", "interfacegame_1_1_player.html#a181d63977aabf905446a185ff2f84e9d", null ],
+    [ "getName", "interfacegame_1_1_player.html#a21b6a153a8ef73ab55ccd0964e27cb63", null ],
+    [ "getPosition", "interfacegame_1_1_player.html#a6f56d407e8fe8fed6e2224fdc224bf31", null ],
+    [ "getShotA", "interfacegame_1_1_player.html#af777a11f156bbb56ee211faba615ba66", null ],
+    [ "getSpeedA", "interfacegame_1_1_player.html#ad54d61e1bd9aaea7574cf43465ccc943", null ],
+    [ "getStealA", "interfacegame_1_1_player.html#a6f5e305e3bf2a4343f946493f4843c9b", null ],
+    [ "getTeam", "interfacegame_1_1_player.html#abaee766c8fc60c4b471d0f1d158a3a42", null ],
+    [ "move", "interfacegame_1_1_player.html#acff3a97481679de4672452ea3825c94d", null ],
+    [ "pass", "interfacegame_1_1_player.html#a4c53c3ec89a1b12dbfa0737ac7ae2b49", null ],
+    [ "setBall", "interfacegame_1_1_player.html#aef51ca48476e7a334efa0384915aae9a", null ],
+    [ "setBlockA", "interfacegame_1_1_player.html#a39babd1b2c461fc3b2c48682608d92cb", null ],
+    [ "setName", "interfacegame_1_1_player.html#ae2cde7757065aed4c79b00a4e746e8c5", null ],
+    [ "setPosition", "interfacegame_1_1_player.html#aadf118528dd9a3caebf7a69b3f1d68a5", null ],
+    [ "setShotA", "interfacegame_1_1_player.html#ac5252a4308fc21b33e7c300269d902f1", null ],
+    [ "setSpeedA", "interfacegame_1_1_player.html#aaf91b0990f698e65c22a1601aac2e9ca", null ],
+    [ "setStealA", "interfacegame_1_1_player.html#abe2b50520bf2fc878589bedadbaa17e1", null ],
+    [ "setTeam", "interfacegame_1_1_player.html#af603b007f262713a25e7e6003f0fdf23", null ],
+    [ "shoot", "interfacegame_1_1_player.html#a97f0a9eb1cc4b2cbaf508ff9810184dc", null ]
+];
